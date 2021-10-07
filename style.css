@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    max-width: fit-content;
+    font-family:  'Oswald', sans-serif;;
+}
+
+
+
+h1 {
+    font-size: 40px;
+ 
+}
+.highlight {
+    color: purple;
+    font-weight: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color:red;
+    padding: 10px 20px;
+    border-radius: 5%;
+    font-weight: 700;
+    color: aliceblue 
+}
+
+
+.half-width {
+    width: 40%;
+   float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+   width: 100%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+section {
+    height: 500px;
+}
+
+
+
+
+
+
+
+
